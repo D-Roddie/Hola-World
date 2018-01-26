@@ -7,11 +7,13 @@ public class Hola_World {
         String y = "Hello World";
         String v = "Bonjour tout le monde";
         String p = "Todo bien";
+        String u = "How are you?";
 
         System.out.println(x);
         System.out.println(y);
         System.out.println(v);
         System.out.println(p);
+        System.out.println(u);
 
     }
 }
