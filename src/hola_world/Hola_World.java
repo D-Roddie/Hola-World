@@ -6,10 +6,12 @@ public class Hola_World {
         String x = "Hola Mundo";
         String y = "Hello World";
         String v = "Bonjour tout le monde";
+        String p = "Todo bien";
 
         System.out.println(x);
         System.out.println(y);
         System.out.println(v);
+        System.out.println(p);
 
     }
 }
